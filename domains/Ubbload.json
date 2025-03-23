@@ -1,1 +1,11 @@
-
+{
+  "description": "SatyamV7.is-a.dev",
+  "repo": "https://github.com/UBBload/Ubbload-Backend",
+  "owner": {
+    "username": "kRxZykRxZy",
+    "email": "hi1992@yogirt.com"
+  },
+  "record": {
+    "CNAME": "UBBload.github.io"
+  }
+}
